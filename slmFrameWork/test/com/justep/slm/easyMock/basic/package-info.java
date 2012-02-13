@@ -6,6 +6,4 @@ package com.justep.slm.easyMock.basic;
  * @author Administrator
  *
  */
-public class Package {
 
-}
