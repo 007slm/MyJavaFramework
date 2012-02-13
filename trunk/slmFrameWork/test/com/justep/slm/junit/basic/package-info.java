@@ -5,6 +5,3 @@ package com.justep.slm.junit.basic;
  * @author Administrator
  *
  */
-public class Package {
-
-}
