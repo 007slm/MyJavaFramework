@@ -5,6 +5,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/DocServer"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7"/>
-	<classpathentry kind="lib" path="lib/easymock-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/easymock-3.1.jar" sourcepath="D:/x5_api/maven/repo/org/easymock/easymock/3.1/easymock-3.1-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
