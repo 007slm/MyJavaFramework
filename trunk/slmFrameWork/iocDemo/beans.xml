@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans 
+SYSTEM "beans.dtd"
+>
+<beans>
+  <bean class="ioc.domain.Student" id="stu" />
+  <bean class="ioc.domain.Teacher" id="tea" singleton="false"/>
+</beans>
