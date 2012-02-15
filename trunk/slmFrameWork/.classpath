@@ -24,5 +24,6 @@
 	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
 	<classpathentry kind="lib" path="lib/servletapi-2.4.jar"/>
 	<classpathentry kind="lib" path="lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="hibernate-tools_source/lib/freemarker.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
