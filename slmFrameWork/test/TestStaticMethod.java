@@ -3,7 +3,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 
 public class TestStaticMethod  implements Runnable{
-	@Override
+	
 	public void run() {
 		synchronized (lhm) {
 			System.out.println("lhm.size()="+lhm.size());
