@@ -24,5 +24,19 @@
 	<classpathentry kind="lib" path="lib/servletapi-2.4.jar"/>
 	<classpathentry kind="lib" path="lib/derbyclient.jar"/>
 	<classpathentry kind="lib" path="hibernate-tools_source/lib/freemarker.jar"/>
+	<classpathentry kind="lib" path="lib/activeio-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-core-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-jaas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-spec-jms-1.1-rc4.jar"/>
+	<classpathentry kind="lib" path="hibernate-tools_source/lib/testlibs/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="hibernate-tools_source/lib/testlibs/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="hibernate-tools_source/lib/testlibs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="hibernate-tools_source/lib/testlibs/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="hibernate-tools_source/lib/testlibs/hibernate3.jar"/>
+	<classpathentry kind="lib" path="hibernate-tools_source/lib/testlibs/javassist.jar"/>
+	<classpathentry kind="lib" path="hibernate-tools_source/lib/testlibs/jboss-annotations-ejb3.jar"/>
+	<classpathentry kind="lib" path="hibernate-tools_source/lib/testlibs/jboss-archive-browsing.jar"/>
+	<classpathentry kind="lib" path="hibernate-tools_source/lib/testlibs/jboss-ejb3x.jar"/>
+	<classpathentry kind="lib" path="lib/EncodingTest.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
