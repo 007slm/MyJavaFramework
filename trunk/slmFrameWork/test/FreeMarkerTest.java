@@ -47,7 +47,7 @@ public class FreeMarkerTest {
 			root.put("lastProduct", product);
 			product.put("url", "http://www.google.com");
 			product.put("name", "green hose");
-			File file = new File("e:/test.html");
+			File file = new File("./test.html");
 			if(!file.exists()){
 				//System.out.println("file exist");
 				file.createNewFile();
