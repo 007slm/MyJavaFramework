@@ -5,7 +5,6 @@
 	<classpathentry kind="src" path="iocDemo"/>
 	<classpathentry kind="src" path="firstNutz"/>
 	<classpathentry kind="src" path="anotherDaoDemo"/>
-	<classpathentry kind="src" path="pamisExt"/>
 	<classpathentry kind="src" path="nutzDemo/aop3cases"/>
 	<classpathentry kind="src" path="nutzDemo/hello_dao"/>
 	<classpathentry kind="src" path="nutzDemo/hello_ioc"/>
