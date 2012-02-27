@@ -6,6 +6,8 @@ import sun.jvm.hotspot.tools.jcore.ClassFilter;
  * @author 007slm
  *
  * dump出jvm已经加载的class classFilter是过滤器
+ * 
+ * 依赖jdk7 的sa-jdi.jar
  */
 public class DumpClass implements ClassFilter {
 	public static void main(String[] args) {
